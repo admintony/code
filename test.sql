@@ -40,7 +40,7 @@ CREATE TABLE `sqltest` (
   `title` varchar(100) CHARACTER SET utf8 NOT NULL DEFAULT '',
   `content` text CHARACTER SET utf8 NOT NULL,
   PRIMARY KEY (`id`)
-) ENGINE=MyISAM AUTO_INCREMENT=7 DEFAULT CHARSET=latin1;
+) ENGINE=MyISAM AUTO_INCREMENT=7 DEFAULT CHARSET=utf8;
 
 -- ----------------------------
 -- Records of sqltest
